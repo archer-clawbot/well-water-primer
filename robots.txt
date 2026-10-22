@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://archer-clawbot.github.io/well-water-primer/sitemap.xml
